@@ -1,0 +1,2 @@
+# sws
+Simple Weather Station
