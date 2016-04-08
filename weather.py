@@ -13,7 +13,7 @@ from Adafruit_CharLCD import Adafruit_CharLCD
 #========================================
 # Settings
 #========================================
-home_dir = "/home/pi/scripts/weather/"
+home_dir = "/home/pi/weather/"
 www_dir = "/var/www/weather/"
 delete_data_older_than_days = 30
 temperature_unit = 'C' # 'C' | 'F'
