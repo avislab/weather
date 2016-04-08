@@ -6,7 +6,7 @@ import SocketServer
 import os
 
 PORT = 80
-DocumentRoot = "/home/pi/scripts/weather/http"
+DocumentRoot = "/home/pi/weather/http"
 
 os.chdir(DocumentRoot)
 Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
